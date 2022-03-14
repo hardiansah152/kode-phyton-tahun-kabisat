@@ -10,7 +10,7 @@ nilai =  (0.15 * tugas) + (0.35 * uts) +  (0.50 * uas)
 if nilai > 90:
     grade = 'A'
 elif nilai > 80:
-grade = 'B'
+    grade = 'B'
 elif nilai > 70:
     grade = 'C'
 elif nilai > 60:
