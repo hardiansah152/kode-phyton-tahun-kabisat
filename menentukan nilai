@@ -10,14 +10,14 @@ nilai = (0.5 * tugas) + (0.35 * uts) + (0.50 * uas)
 
 #Menentukan Grade Berdasarkan Nilai Akhir
 if nilai > 80:
- grade = 'A'
+    grade = 'A'
 elif nilai > 70:
- grade = 'B'
+    grade = 'B'
 elif nilai > 60:
- grade = 'C'
+    grade = 'C'
 elif nilai > 50:
-grade = 'D'
-    else:
+    grade = 'D'
+else:
     grade = 'E'
 
 #Menetukan Status kelulusan Berdasarkan Nilai Akhir
