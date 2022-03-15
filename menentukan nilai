@@ -17,7 +17,7 @@ elif nilai > 60:
  grade = 'C'
 elif nilai > 50:
 grade = 'D'
-else:
+    else:
     grade = 'E'
 
 #Menetukan Status kelulusan Berdasarkan Nilai Akhir
